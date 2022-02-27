@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ListViewPeliculas</string>
+
+    <string name="peli1">Morbius</string>
+    <string name="peli2">Scream</string>
+    <string name="peli3">Uncharted</string>
+    <string name="peli4">Batman</string>
+    <string name="peli5">Sonic 2</string>
+
+    <string name="desc1">Uno de los personajes más imponentes y conflictivos de Marvel llega a la Pantalla Grande con el ganador del Premio de la Academia®, Jared Leto, quien se transforma en el enigmático antihéroe Michael Morbius. Gravemente enfermo con un trastorno sanguíneo poco común y decidido a salvar a otros que sufren de ese mismo destino, el Dr. Morbius hace una arriesgada apuesta. Si bien al principio, parece ser un éxito radical, una oscuridad dentro de él se desata.¿El bien prevalecerá sobre el mal o Morbius sucumbirá a sus misteriosos nuevos impulsos?</string>
+    <string name="desc2">Veinticinco años después de que una racha de asesinatos brutales conmocionara a la tranquila ciudad de Woodsboro, un nuevo asesino se ha puesto la máscara de Ghostface y comienza a apuntar a un grupo de adolescentes para resucitar secretos del pasado mortal de la ciudad. Neve Campbell ("Sidney Prescott"), Courteney Cox ("Gale Weathers") y David Arquette ("Dewey Riley") vuelven a sus papeles icónicos en Scream junto a Melissa Barrera, Kyle Gallner, Mason Gooding, Mikey Madison, Dylan Minnette, Jenna Ortega, Jack Quaid, Marley Shelton, Jasmin Savoy Brown y Sonia Ammar.</string>
+    <string name="desc3">Basado en uno de los juegos más aclamados por la critica y que más ha vendido en la historia, Uncharted: Fuera del mapa, narra la historia de Nathan Drake y la primer aventura con su socio-rival Victor “Sully” Sullivan. Estelarizada por Tom Holland como Nathan Drake y Mark Wahlberg como el bromista de intelecto rápido Sully. Uncharted: Fuera del mapa presenta al público la manera en que Nathan Drake se convierte en un cazador de tesoros mientras que resuelve los más grandes misterios en una aventura llena de aventura y acción épica alrededor del mundo.</string>
+    <string name="desc4">El director Matt Reeves (películas de “El Planeta de los Simios”) está al frente con Robert Pattinson (“Tenet”, “El Faro”, “Good Time: Viviendo al Límite”) quien protagoniza a Batman —el detective vigilante de Ciudad Gótica— y a el multimillonario Bruce Wayne.</string>
+    <string name="desc5">Después de establecerse en Green Hills, Sonic está ansioso por demostrar que tiene lo que se necesita para ser un verdadero héroe. Su prueba llega cuando el Dr. Robotnik regresa a buscar una esmeralda que tiene el poder de destruir civilizaciones, esta vez con un nuevo aliado, Knuckles. Sonic se une a su propio compañero, Tails, y juntos se embarcan en un viaje alrededor del mundo para encontrar la esmeralda antes de que caiga en las manos equivocadas.</string>
+</resources>
