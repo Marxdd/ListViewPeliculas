@@ -23,4 +23,29 @@
     <string name="menu_home">Peliculas</string>
     <string name="menu_gallery">Series</string>
     <string name="menu_slideshow">Favoritos</string>
+
+    <string name="fav1">Better Call Saul</string>
+    <string name="fav2">Invencible</string>
+    <string name="fav3">The Boys</string>
+    <string name="fav4">Daredevil</string>
+    <string name="fav5">Bojack Horseman</string>
+
+    <string name="sinop1">McGill trabaja inicialmente como un paupérrimo abogado, instalado en la trastienda de un salón de belleza que utiliza como hogar y oficina. Su amiga, con la que mantiene una relación romántica, Kim Wexler (Rhea Seehorn), trabaja como abogada en e bufete Hamlin, Hamlin &amp; McGill (HHM), donde ella y Jimmy coincidieron trabajando. Entre los socios se encuentra su hermano, Chuck McGill (Michael McKean). Gus Fring (Giancarlo Esposito) dirige una cadena de restaurantes de comida rápida como fachada comercial de sus operaciones de tráfico de drogas. Sus actividades se ven interrumpidas por miembros de la familia criminal Salamanca, incluido Lalo Salamanca (Tony Dalton). Odenkirk, Banks y Esposito repiten sus papeles de Breaking Bad.</string>
+    <string name="sinop2">Mark Grayson hereda superpoderes a los diecisiete años y se une a su padre como uno de los mayores héroes de la Tierra. Todos sus sueños se hacen realidad, hasta que un evento impactante lo cambia todo.</string>
+    <string name="sinop3">THE BOYS es una mirada irreverente sobre la idea de qué sucedería si los superhéroes, quienes son tan populares como las celebridades, más influyentes que los políticos y venerados como dioses, abusaran de sus poderes en vez de dedicarse a hacer el bien. En The Boys, veremos a los normales luchar contra los superpoderosos para exponer la verdad sobre "Los Siete" y el formidable Vought.</string>
+    <string name="sinop4">Matt Murdock quedó ciego tras un accidente de niño, pero ahora con sus cuatro sentidos incrementados se dedica a luchar contra la injusticia como abogado y superhéroe</string>
+    <string name="sinop5">En un mundo donde humanos y animales antropomorfos conviven, el personaje principal de la serie es el caballo BoJack Horseman (Will Arnett), protagonista de la telecomedia Horsin\' Around en la década de 1990. Después de años de decadencia y una tormentosa vida personal, se propone volver al candelero a través de una autobiografía para la que contará con ayuda de una escritora fantasma, Diane Nguyen (Alison Brie). BoJack también tendrá que lidiar con las exigencias de su exnovia y agente, la gata Princess Carolyn; su compañero de piso Todd Chávez y su amienemigo Mr. Peanutbutter, un perro labrador que es novio de Diane y triunfó con una sitcom muy similar a Horsin\' Around. La mayor parte de la trama se desarrolla en «Hollywoo», una parodia de Hollywood, California.</string>
+
+
+    <string name="serie1">The Good Doctor</string>
+    <string name="serie2">Harina</string>
+    <string name="serie3">Yo soy Betty, la fea</string>
+    <string name="serie4">Formula 1 Drive to Survive</string>
+    <string name="serie5">La casa de papel</string>
+
+    <string name="trama1">Se centra en un joven cirujano con síndrome de Savant quien es reclutado en la unidad de cirugía pediátrica de un prestigioso hospital. La pregunta surgirá: ¿Realmente puede salvar vidas una persona que no tiene la capacidad de relacionarse con otras personas?</string>
+    <string name="trama2">El Teniente y Ramírez, se enfrentan con un "serial killer", cuyo objetivo es terminar con los "influencers". Buscarán atrapar al criminal batallando al mismo tiempo con el sistema judicial mexicano.</string>
+    <string name="trama3">Betty dedicó todo su tiempo a estudiar porque era poco agraciada. Pero su vida cambio cuando entra a trabajar a Ecomoda y conoce a Armando Mendoza</string>
+    <string name="trama4">Esta aclamada docuserie sobre la Fórmula 1 "Es divertida y relajada, dos virtudes que el entretenimiento deportivo estadounidense no suelen tener", reseña The Atlantic</string>
+    <string name="trama5">Un misterioso hombre conocido como «el Profesor» ha pasado toda su vida planeando el mayor de los atracos de la historia: entrar en la Fábrica Nacional de Moneda y Timbre e imprimir 2400 millones de euros. Para llevar a cabo este ambicioso plan, el Profesor recluta a un equipo de ocho personas con ciertas habilidades y que no tienen nada que perder. Estos, junto al Profesor, planean cada paso del atraco durante cinco meses. Este equipo, con nombres de diferentes ciudades del mundo, requiere de 11 días de reclusión en la Fábrica, durante los cuales tiene que lidiar con las fuerzas de élite de la policía y 67 rehenes.</string>
 </resources>
