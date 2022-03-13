@@ -1,6 +1,7 @@
 package lopez.mario.listviewpeliculas
 
 import android.content.Context
+import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -41,6 +42,14 @@ class AdaptadorPelis: BaseAdapter {
         iv_img.setImageResource(peli.img)
         tv_nombre.setText(peli.nombre)
 
+        vista.setOnClickListener{
+            val intent: Intent = Intent(context,PeliculaActivity::class.java)
+            intent.putExtra("nombre",peli.nombre)
+            intent.putExtra("desc",peli.sinopsis)
+            intent.putExtra("img",peli.img)
+            context.startActivity(intent)
+
+        }
         return vista
 
     }

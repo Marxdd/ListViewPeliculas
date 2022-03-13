@@ -12,4 +12,15 @@
     <string name="desc3">Basado en uno de los juegos más aclamados por la critica y que más ha vendido en la historia, Uncharted: Fuera del mapa, narra la historia de Nathan Drake y la primer aventura con su socio-rival Victor “Sully” Sullivan. Estelarizada por Tom Holland como Nathan Drake y Mark Wahlberg como el bromista de intelecto rápido Sully. Uncharted: Fuera del mapa presenta al público la manera en que Nathan Drake se convierte en un cazador de tesoros mientras que resuelve los más grandes misterios en una aventura llena de aventura y acción épica alrededor del mundo.</string>
     <string name="desc4">El director Matt Reeves (películas de “El Planeta de los Simios”) está al frente con Robert Pattinson (“Tenet”, “El Faro”, “Good Time: Viviendo al Límite”) quien protagoniza a Batman —el detective vigilante de Ciudad Gótica— y a el multimillonario Bruce Wayne.</string>
     <string name="desc5">Después de establecerse en Green Hills, Sonic está ansioso por demostrar que tiene lo que se necesita para ser un verdadero héroe. Su prueba llega cuando el Dr. Robotnik regresa a buscar una esmeralda que tiene el poder de destruir civilizaciones, esta vez con un nuevo aliado, Knuckles. Sonic se une a su propio compañero, Tails, y juntos se embarcan en un viaje alrededor del mundo para encontrar la esmeralda antes de que caiga en las manos equivocadas.</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Peliculas</string>
+    <string name="menu_gallery">Series</string>
+    <string name="menu_slideshow">Favoritos</string>
 </resources>
